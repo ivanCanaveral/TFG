@@ -1,8 +1,8 @@
 # TFG
 
-00_3Graph_generator.py .............. Generador de 3-grafos completos
-00_MapGen.c ......................... Generador de Mapas con el formato de TSPlib
-01_CUDA_PSO.cu ...................... Versión paralela de PSO
+00_3Graph_generator.py .............. Generador de 3-grafos completos \n
+00_MapGen.c ......................... Generador de Mapas con el formato de TSPlib \n
+01_CUDA_PSO.cu ...................... Versión paralela de PSO \n
 01_C_PSO.c .......................... Versión secuencial de PSO
 02_CUDA_DE.cu ....................... Versión paralela de DE
 02_C_DE.c ........................... Versión secuencial de DE
@@ -14,4 +14,4 @@
 05_C_MTSPO.c ........................ Versión secuencial de MTPSO
 99_3Graph_examples.zip .............. Algunos 3-grafos completos ya generados
 99_TSP_adapter ...................... Adapta el formato "par de coordenadas" de algunos .tsp al formato "matriz". Incluye ejemplos.
-99_TSPlib_examples .................. Algunos ejemplos obtenidos de TSPlibb
+99_TSPlib_examples .................. Algunos ejemplos obtenidos de TSPlib
