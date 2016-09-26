@@ -12,7 +12,7 @@ Aquí podemos encontrar algunos recursos asociados al Trabajo de Fin de Grado: "
 `02_C_DE.c ........................... Versión secuencial de DE`  
 `03_CUDA_ABC.cu ...................... Versión paralela de ABC`  
 `03_C_ABC.c .......................... Versión secuencial de ABC`  
-`04_CUDA_ACO.cu ...................... Versión paralela de ACO` 
+`04_CUDA_ACO.cu ...................... Versión paralela de ACO`  
 `04_C_ACO.c .......................... Versión secuencial de ACO`  
 `05_CUDA_MTPSO.cu .................... Versión paralela de MTPSO`  
 `05_C_MTSPO.c ........................ Versión secuencial de MTPSO`  
