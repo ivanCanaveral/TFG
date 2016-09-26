@@ -1,7 +1,7 @@
 # TFG
 
-´00_3Graph_generator.py .............. Generador de 3-grafos completos´  
-'00_MapGen.c ......................... Generador de Mapas con el formato de TSPlib'  
+`00_3Graph_generator.py .............. Generador de 3-grafos completos`  
+`00_MapGen.c ......................... Generador de Mapas con el formato de TSPlib`  
 01_CUDA_PSO.cu ...................... Versión paralela de PSO  
 01_C_PSO.c .......................... Versión secuencial de PSO  
 02_CUDA_DE.cu ....................... Versión paralela de DE  
